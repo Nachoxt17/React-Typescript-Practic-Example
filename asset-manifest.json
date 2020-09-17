@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Typescript-Practic-Example/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React-Typescript-Practic-Example/static/js/main.7e08cd50.chunk.js",
+    "main.js.map": "/React-Typescript-Practic-Example/static/js/main.7e08cd50.chunk.js.map",
+    "runtime-main.js": "/React-Typescript-Practic-Example/static/js/runtime-main.f0616543.js",
+    "runtime-main.js.map": "/React-Typescript-Practic-Example/static/js/runtime-main.f0616543.js.map",
+    "static/css/2.385b950e.chunk.css": "/React-Typescript-Practic-Example/static/css/2.385b950e.chunk.css",
+    "static/js/2.07f159b0.chunk.js": "/React-Typescript-Practic-Example/static/js/2.07f159b0.chunk.js",
+    "static/js/2.07f159b0.chunk.js.map": "/React-Typescript-Practic-Example/static/js/2.07f159b0.chunk.js.map",
+    "index.html": "/React-Typescript-Practic-Example/index.html",
+    "precache-manifest.23156a2976bf1c11f9ebb5bc7d49dbdd.js": "/React-Typescript-Practic-Example/precache-manifest.23156a2976bf1c11f9ebb5bc7d49dbdd.js",
+    "service-worker.js": "/React-Typescript-Practic-Example/service-worker.js",
+    "static/css/2.385b950e.chunk.css.map": "/React-Typescript-Practic-Example/static/css/2.385b950e.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React-Typescript-Practic-Example/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.07f159b0.chunk.js.LICENSE.txt": "/React-Typescript-Practic-Example/static/js/2.07f159b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0616543.js",
+    "static/css/2.385b950e.chunk.css",
+    "static/js/2.07f159b0.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.7e08cd50.chunk.js"
+  ]
+}

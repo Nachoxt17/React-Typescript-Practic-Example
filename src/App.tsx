@@ -39,6 +39,10 @@ function App(): JSX.Element {
         <div className='container p-4'>
             <div className='row'>
                 <div className='col-md-6 offset-md-3'>
+                    <h1>
+                        React and Typescript TasksApp stylized with Bootswatch,
+                        by Ignacio Ceaglio.
+                    </h1>
                     <div className='card'>
                         <div className='card-body'>
                             <form onSubmit={handleSubmit}>
